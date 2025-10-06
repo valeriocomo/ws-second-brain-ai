@@ -17,22 +17,14 @@ drawings:
 transition: slide-left
 # enable MDC Syntax: https://sli.dev/features/mdc
 mdc: true
-layout: intro
+layout: cover
+color: light
 ---
 
 # Second Brain AI
 
 Empower your Second Brain with AI
 
-<div @click="$slidev.nav.next" class="mt-12 py-1" hover:bg="white op-10">
-  Press Space for next page <carbon:arrow-right />
-</div>
-
-<div class="abs-br m-6 text-xl">
-  <a href="https://github.com/valeriocomo/ws-second-brain-ai" target="_blank" class="slidev-icon-btn">
-    <carbon:logo-github />
-  </a>
-</div>
 
 <!--
 The last comment block of each slide will be treated as slide notes. It will be visible and editable in Presenter Mode along with the slide. [Read more in the docs](https://sli.dev/guide/syntax.html#notes)
