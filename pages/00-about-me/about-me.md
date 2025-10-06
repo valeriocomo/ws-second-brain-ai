@@ -1,0 +1,17 @@
+---
+layout: image-right
+transition: fade-out
+image: 'https://github.com/valeriocomo.png?size=1080'
+---
+
+# About Me
+
+## Valerio Como
+
+👨🏽‍💻 Technical Project Manager @ DTD
+
+🗣️ Tech speaker
+
+📝 Dev blog
+
+📚 Personal growth & Productivity books consumer
