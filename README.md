@@ -1,4 +1,8 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# Second Brain AI Workshop 
+
+This is a draft version of Second Brain AI Workshop
+
+## Development
 
 To start the slide show:
 
@@ -9,3 +13,7 @@ To start the slide show:
 Edit the [slides.md](./slides.md) to see the changes.
 
 Learn more about Slidev at the [documentation](https://sli.dev/).
+
+### Theme
+
+The used theme is [Neversink](https://gureckis.github.io/slidev-theme-neversink/layouts/section.html)
