@@ -1,14 +1,13 @@
 ---
-layout: image
-image: '/images/agenda-cover.png'
+layout: section
+color: indigo
+transition: slide-right
 preload: true
 ---
 
-<div class="slidev-layout h-full grid section">
-    <div class="my-auto">
-        <h1 style="color: #0A0A0A">Agenda</h1> 
-    </div>
-</div>
+# Agenda
+
+<hr>
 
 ---
 layout: image-right

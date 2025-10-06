@@ -36,5 +36,5 @@ transition: fade-out
 
 ---
 src: ./pages/01-agenda/agenda.md
-transition: fade-out
+transition: slide-up
 ---
