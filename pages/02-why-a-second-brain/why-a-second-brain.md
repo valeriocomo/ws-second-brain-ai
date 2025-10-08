@@ -51,6 +51,19 @@ title: Why a Second Brain?
 </v-clicks>
 
 ---
+layout: fact
+title: Why a Second Brain?
+---
+
+# Information hoarders
+
+<v-click>
+
+<h2>Overwhelming our minds</h2>
+
+</v-click>
+
+---
 layout: top-title
 align: l
 color: violet
@@ -71,7 +84,7 @@ color: violet
 
 ---
 layout: quote
-author: David Allen
+author: David Allen, author of Getting Things Done
 color: sky
 quotesize: text-m
 authorsize: text-s
