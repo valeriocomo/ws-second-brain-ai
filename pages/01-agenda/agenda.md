@@ -1,6 +1,6 @@
 ---
 layout: section
-color: indigo
+color: slate
 transition: slide-right
 preload: true
 ---
