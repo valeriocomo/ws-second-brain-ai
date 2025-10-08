@@ -18,10 +18,10 @@ transition: slide-left
 # enable MDC Syntax: https://sli.dev/features/mdc
 mdc: true
 layout: cover
-color: light
+color: cyan
 ---
 
-# Second Brain AI
+# Second Brain + AI
 
 Empower your Second Brain with AI
 
