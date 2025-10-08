@@ -12,7 +12,7 @@ preload: true
 ---
 layout: quote
 author: New York Times
-color: sky-light
+color: pink
 quotesize: text-m
 authorsize: text-s
 title: Why a Second Brain?
@@ -26,7 +26,7 @@ It's the equivalent of 174 newspapers consumed daily.
 ---
 layout: side-title
 align: rm-lm
-color: violet
+color: pink
 titlewidth: is-4
 title: Why a Second Brain?
 ---
@@ -37,7 +37,7 @@ title: Why a Second Brain?
 
 :: content ::
 
-# Information consumers
+# `Information consumers`
 
 <v-clicks>
 
@@ -66,7 +66,7 @@ title: Why a Second Brain?
 ---
 layout: top-title
 align: l
-color: violet
+color: pink
 ---
 
 :: title ::
@@ -75,7 +75,7 @@ color: violet
 
 :: content ::
 
-# Handling information
+# `Handling information`
 
 - research
 - reuse
@@ -85,7 +85,7 @@ color: violet
 ---
 layout: quote
 author: David Allen, author of Getting Things Done
-color: sky
+color: pink
 quotesize: text-m
 authorsize: text-s
 title: Why a Second Brain?
@@ -96,7 +96,7 @@ Your mind is for getting idea, not for holding them.
 ---
 layout: side-title
 align: rm-lm
-color: violet
+color: pink
 titlewidth: is-4
 title: Why a Second Brain?
 ---
@@ -107,7 +107,7 @@ title: Why a Second Brain?
 
 :: content ::
 
-# The purpose
+# `The purpose`
 
 <v-clicks>
 
