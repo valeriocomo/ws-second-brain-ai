@@ -14,4 +14,4 @@ image: 'https://github.com/valeriocomo.png?size=1080'
 
 📝 Dev blog
 
-📚 Personal growth books
+📚 Personal growth & Productivity books
