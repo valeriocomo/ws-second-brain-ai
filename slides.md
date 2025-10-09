@@ -43,3 +43,8 @@ transition: slide-up
 src: ./pages/02-why-a-second-brain/why-a-second-brain.md
 transition: slide-up
 ---
+
+---
+src: ./pages/03-what-is-a-second-brain/what-is-a-second-brain.md
+transition: slide-up
+---
