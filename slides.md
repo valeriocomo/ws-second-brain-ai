@@ -48,3 +48,8 @@ transition: slide-up
 src: ./pages/03-what-is-a-second-brain/what-is-a-second-brain.md
 transition: slide-up
 ---
+
+---
+src: ./pages/04-the-recipe/the-recipe.md
+transition: slide-up
+---
