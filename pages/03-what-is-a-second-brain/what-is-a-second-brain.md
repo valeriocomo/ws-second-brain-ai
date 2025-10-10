@@ -107,3 +107,53 @@ title: What is a Second Brain?
 ---
 
 The digital commonplace book is what I call Second Brain.
+
+---
+layout: image-right
+transition: slide-up
+image: 'https://bigthink.com/wp-content/uploads/2023/01/Tiago-Forte-Profile.jpg'
+---
+
+# What is a second brain?
+
+### Tiago Forte
+
+👨🏽‍💻 CEO @ Fortelabs
+
+📚 Author of Building a Second Brain
+
+📝 Productivity blog
+
+💡 Creator of PARA Method and C.O.D.E.
+
+<v-click>
+
+<QRCode value="https://linktr.ee/secondbrainai" :size="200" render-as="svg" />
+
+</v-click>
+
+---
+layout: top-title
+align: l
+color: violet
+---
+
+:: title ::
+
+# What is a Second Brain?
+
+:: content ::
+
+# `Superpowers`
+
+<v-clicks>
+
+✍🏼 make your ideas concrete
+
+💡 reveal new association between ideas
+
+💭 incubating our ideas over the time
+
+✨ sharpening out unique perspective
+
+</v-clicks>
