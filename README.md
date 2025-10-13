@@ -22,3 +22,4 @@ The used theme is [Neversink](https://gureckis.github.io/slidev-theme-neversink/
 
 - [Foundation](https://www.buildingasecondbrain.com/foundation)
 - [BASB Overview](https://fortelabs.com/blog/basboverview/)
+- [Prompt Engineering](https://learnprompting.org/docs/basics/prompt_engineering)

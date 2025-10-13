@@ -53,3 +53,8 @@ transition: slide-up
 src: ./pages/04-the-recipe/the-recipe.md
 transition: slide-up
 ---
+
+---
+src: ./pages/05-challenges/challenges.md
+transition: slide-up
+---
