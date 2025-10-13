@@ -29,7 +29,11 @@ color: orange-light
 
 # `Capture`
 
-- private knowledge collection
+- *capture what resonate to you*
+
+- collect now, consume later
+
+- using a single centralized place
 
 ---
 layout: top-title
@@ -45,7 +49,9 @@ color: orange-light
 
 # `Organize`
 
-- private knowledge collection
+- *organize for actionability*
+
+- PARA Method
 
 ---
 layout: top-title
@@ -61,7 +67,13 @@ color: orange-light
 
 # `Distill`
 
-- private knowledge collection
+- *finding what you need*
+
+- design your notes for your future self
+
+- summarize progressively
+
+- iterative process
 
 ---
 layout: top-title
@@ -77,4 +89,13 @@ color: orange-light
 
 # `Express`
 
-- private knowledge collection
+- *turning knowledge into actions* 
+
+- create tangible arctifacts
+
+- create small reusable units of knowledge (a.k.a *Intermediate Packets*)
+
+- share your work
+
+
+

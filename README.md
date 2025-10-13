@@ -17,3 +17,8 @@ Learn more about Slidev at the [documentation](https://sli.dev/).
 ### Theme
 
 The used theme is [Neversink](https://gureckis.github.io/slidev-theme-neversink/layouts/section.html)
+
+## Refs
+
+- [Foundation](https://www.buildingasecondbrain.com/foundation)
+- [BASB Overview](https://fortelabs.com/blog/basboverview/)

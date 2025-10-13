@@ -77,7 +77,7 @@ color: pink
 
 # `Handling information`
 
-- research
+- search
 - reuse
 - share
 - actionability
