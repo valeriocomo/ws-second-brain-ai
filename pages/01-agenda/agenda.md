@@ -19,7 +19,6 @@ image: '/images/agenda.png'
 * Why a Second Brain?
 * What is a Second Brain? 
 * The recipe
-* Ex 1
-* Ex 2
+* Challenges
 * AI is a spaceship
 * Q&A
