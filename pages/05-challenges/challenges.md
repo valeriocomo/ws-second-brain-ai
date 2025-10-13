@@ -24,7 +24,7 @@ color: blue-light
 
 <v-clicks>
 
-- Prompting an LLM
+- Note generation
 
 - Progressive Summarization
 
