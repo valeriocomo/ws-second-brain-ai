@@ -31,3 +31,8 @@ color: blue-light
 - Content Generation
 
 </v-clicks>
+
+---
+src: ./prompt-engineering.md
+transition: slide-up
+---
