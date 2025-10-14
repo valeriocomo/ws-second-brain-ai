@@ -29,3 +29,4 @@ The used theme is [Neversink](https://gureckis.github.io/slidev-theme-neversink/
 - [Progressive Summarization IV](https://fortelabs.com/blog/progressive-summarization-iv-compressing-all-types-of-media/)
 - [Progressive Summarization V](https://fortelabs.com/blog/progressive-summarization-v-the-faster-you-forget-the-faster-you-learn/)
 - [Progressive Summarization VI](https://fortelabs.com/blog/progressive-summarization-vi-core-principles-of-knowledge-capture/)
+- [Intermediate Packets](https://fortelabs.com/blog/intermediate-packets-in-the-wild/)
