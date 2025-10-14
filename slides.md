@@ -58,3 +58,8 @@ transition: slide-up
 src: ./pages/05-challenges/challenges.md
 transition: slide-up
 ---
+
+---
+src: ./pages/06-wrap-up/wrap-up.md
+transition: slide-up
+---
