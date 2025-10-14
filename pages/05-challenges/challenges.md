@@ -73,6 +73,8 @@ backgroundSize: contain
 # Challenge #1
 ## Progressive Summarization
 
+Technique adopted in *Distill* Phase
+
 <v-clicks>
 
 - Capture (starting from a note, an article)
@@ -146,3 +148,81 @@ color: blue-light
 
 # Challenge #2
 ### Content Generation
+
+---
+layout: top-title
+color: blue-light
+
+---
+
+:: title ::
+
+# Challenge #2 - Content Generation
+
+:: content ::
+
+## Intermediate Packets
+
+Technique adopted in *Express* Phase
+
+<v-clicks>
+
+- Small unit of knowledge (a.k.a. *UoK*)
+
+- Atomic content
+
+- Reuse by composition
+
+</v-clicks>
+
+---
+layout: fact
+color: blue-light
+---
+
+# Challenge #2
+## Writing a prompt that combine UoK for different purpose
+
+---
+layout: top-title
+color: blue-light
+---
+:: title ::
+# Challenge #2 - Content generation
+
+
+:: content ::
+
+# `Prompt structure`
+<v-clicks>
+
+- Set a personas
+
+- Define the task
+
+- Give the context (one or more paragraph)
+
+- Set the constraints
+
+</v-clicks>
+
+---
+layout: top-title
+color: blue-light
+---
+:: title ::
+# Challenge #2 - Content generation
+
+
+:: content ::
+
+# `Prompt ideas`
+<v-clicks>
+
+- Copy for a social network post
+
+- Blog post
+
+- Short pill
+
+</v-clicks>
