@@ -63,3 +63,26 @@ transition: slide-up
 src: ./pages/06-wrap-up/wrap-up.md
 transition: slide-up
 ---
+
+---
+layout: section
+color: green
+---
+
+# Q&A
+
+<hr>
+
+---
+layout: image-right
+image: '/images/thanks.png'
+preload: true
+---
+
+<div class="h-full section">
+<h1>Contacts</h1>
+<p><b>Linkedin</b>: /in/valeriocomo</p>
+<p><b>X</b>: @valeriocomo</p>
+<p><b>Instagram</b>: @valeriocomo</p>
+<Email v="valeriocomo@gmail.com" />
+</div>
