@@ -20,5 +20,5 @@ image: '/images/agenda.png'
 * What is a Second Brain? 
 * The recipe
 * Challenges
-* AI is a spaceship
+* Wrap up
 * Q&A
