@@ -112,7 +112,7 @@ title: Why a Second Brain?
 <v-clicks>
 
 * Efficient research
-* Consistent Knowledge organization
+* Consistent knowledge organization
 * Note your ideas
 * Connect ideas
 * Sharing ideas
