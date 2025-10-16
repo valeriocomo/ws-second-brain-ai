@@ -40,7 +40,7 @@ color: yellow
 
 :: content ::
 
-# `Why Prompt Engineering is Important?`
+# `Why Prompt Engineering is important?`
 
 
 <v-clicks>
@@ -49,7 +49,7 @@ color: yellow
 
 - Mitigate errors
 
-- Improve ouput quality
+- Improve output quality
 
 </v-clicks>
 
