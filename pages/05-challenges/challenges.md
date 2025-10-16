@@ -30,6 +30,10 @@ color: blue-light
 
 - Content Generation
 
+<QRCode value="https://github.com/valeriocomo/ws-second-brain-ai/blob/main/note.md" :size="200" render-as="svg" />
+
+<p><a src="https://linktr.ee/secondbrainai" target="_blank">https://linktree.com/secondbrainai</a></p>
+
 </v-clicks>
 
 ---
@@ -52,7 +56,6 @@ color: blue-light
 
 # Challenge #0
 ## Given a file, create a brief 3-paragraph summary about French Impressionist
-<!-- ## Considerando il file caricato, creami un estratto di 3 paragrafi sugli impressionisti francesi -->
 
 ---
 layout: section
