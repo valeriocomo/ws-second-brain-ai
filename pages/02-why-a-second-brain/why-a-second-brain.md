@@ -115,7 +115,7 @@ title: Why a Second Brain?
 * Consistent knowledge organization
 * Note your ideas
 * Connect ideas
-* Sharing ideas
+* Share ideas
 * Combine piece of information
 * Relief your brain
 
