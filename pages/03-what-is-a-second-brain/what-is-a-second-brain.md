@@ -78,8 +78,9 @@ url: https://en.wikipedia.org/wiki/Commonplace_book#Overview
 </v-clicks>
 
 ---
-layout: top-title
-align: l
+layout: top-title-two-cols
+align: l-l-r
+columns: is-6-6
 color: violet
 ---
 
@@ -87,7 +88,7 @@ color: violet
 
 # What is a Second Brain?
 
-:: content ::
+:: left ::
 
 # `Digital Commonplace book`
 
@@ -96,6 +97,13 @@ color: violet
 - organize your project
 - extending your thinking
 - refine your ideas
+
+:: right ::
+
+<figure class="contains">
+<img src="https://images.unsplash.com/photo-1652170226044-711dff674316" alt="Capture" />
+<figcaption style="font: italic smaller sans-serif">source unsplash.com</figcaption>
+</figure>
 
 ---
 layout: quote
