@@ -32,7 +32,7 @@ Genera un contenuto testuale che si adatti ad un blog post.
 Adotta un tono informale e moderno.
 Utilizza le informazioni le seguenti informazioni di contesto, preferendo i contentuti evidenziati in grassetto.
 
-<qui>
+<< qui >>
 
 Genera il blog post utilizzando circa 5000 caratteri
 

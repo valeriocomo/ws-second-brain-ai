@@ -4,7 +4,7 @@ Agisci come una persona che conosce Second Brain, di Tiago Forte, in ogni dettag
 
 Data una nota, applica la tecnica di Progressive Summarization alla seguente nota 
 
-<qui> 
+<< qui >>
 
 Vincoli: 
 
