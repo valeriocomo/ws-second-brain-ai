@@ -1,6 +1,7 @@
 ---
 layout: section
 color: yellow
+transition: slide-up
 ---
 
 # Prompt Engineering
@@ -9,6 +10,7 @@ color: yellow
 layout: quote
 color: yellow
 author: wikipedia
+transition: slide-left
 ---
 
 ## Prompt engineering is the process of structuring or crafting an instruction in order to produce better outputs from a generative artificial intelligence (AI) model.
@@ -16,6 +18,7 @@ author: wikipedia
 ---
 layout: fact
 color: yellow
+transition: slide-up
 ---
 
 # What's a prompt?
@@ -24,6 +27,7 @@ color: yellow
 layout: quote
 color: yellow
 author: wikipedia
+transition: slide-up
 ---
 
 ## A prompt is natural language text describing the task that an AI should perform

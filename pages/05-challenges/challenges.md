@@ -1,7 +1,7 @@
 ---
 layout: section
 color: blue-light
-transition: slide-right
+transition: slide-up 
 preload: true
 ---
 
@@ -38,7 +38,6 @@ color: blue-light
 
 ---
 src: ./prompt-engineering.md
-transition: slide-up
 ---
 
 ---

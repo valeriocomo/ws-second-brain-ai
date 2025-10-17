@@ -51,7 +51,6 @@ src: ./pages/04-the-recipe/the-recipe.md
 
 ---
 src: ./pages/05-challenges/challenges.md
-transition: slide-up
 ---
 
 ---
