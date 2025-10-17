@@ -33,6 +33,7 @@ title: What is a Second Brain?
 ---
 layout: fact
 title: What is a Second Brain?
+transition: slide-up
 ---
 
 # Commonplace book
@@ -82,6 +83,7 @@ layout: top-title-two-cols
 align: l-l-r
 columns: is-6-6
 color: violet
+transition: slide-up
 ---
 
 :: title ::
