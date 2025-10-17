@@ -64,8 +64,9 @@ title: Why a Second Brain?
 </v-click>
 
 ---
-layout: top-title
-align: l
+layout: top-title-two-cols
+align: l-l-r
+columns: is-6-6
 color: pink
 ---
 
@@ -73,7 +74,7 @@ color: pink
 
 # Why a Second Brain?
 
-:: content ::
+:: left ::
 
 # `Handling information`
 
@@ -81,6 +82,13 @@ color: pink
 - reuse
 - share
 - actionability
+
+:: right ::
+
+<figure>
+<img src="https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=2072" alt="Capture" />
+<figcaption style="font: italic smaller sans-serif">source unsplash.com</figcaption>
+</figure>
 
 ---
 layout: quote
@@ -120,3 +128,7 @@ title: Why a Second Brain?
 * Relief your brain
 
 </v-clicks>
+
+
+
+
