@@ -1,6 +1,6 @@
 ---
 layout: image-right
-transition: slide-up
+transition: fade-out
 image: 'https://github.com/valeriocomo.png?size=1080'
 ---
 

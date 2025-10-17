@@ -31,7 +31,6 @@ The last comment block of each slide will be treated as slide notes. It will be 
 -->
 ---
 src: ./pages/00-about-me/about-me.md
-transition: fade-out
 ---
 
 ---
