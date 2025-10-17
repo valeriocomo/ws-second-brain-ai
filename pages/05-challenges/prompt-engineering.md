@@ -29,8 +29,9 @@ author: wikipedia
 ## A prompt is natural language text describing the task that an AI should perform
 
 ---
-layout: top-title
-align: l
+layout: top-title-two-cols
+align: l-l-r
+columns: is-6-6
 color: yellow
 ---
 
@@ -38,7 +39,7 @@ color: yellow
 
 # Prompt Engineering
 
-:: content ::
+:: left ::
 
 # `Why Prompt Engineering is important?`
 
@@ -52,6 +53,14 @@ color: yellow
 - Improve output quality
 
 </v-clicks>
+
+:: right ::
+
+<figure class="contains">
+<img style="height: 400px;" src="https://images.unsplash.com/photo-1620712943543-bcc4688e7485" alt="Capture" />
+<figcaption style="font: italic smaller sans-serif">source unsplash.com</figcaption>
+</figure>
+
 
 ---
 layout: image-right
