@@ -1,7 +1,7 @@
 ---
 layout: section
 color: pink
-transition: slide-right
+transition: slide-up
 preload: true
 ---
  
