@@ -1,7 +1,7 @@
 ---
 layout: section
 color: slate
-transition: slide-right
+transition: slide-up
 preload: true
 ---
 
