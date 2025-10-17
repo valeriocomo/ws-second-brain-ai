@@ -55,12 +55,12 @@ src: ./pages/05-challenges/challenges.md
 
 ---
 src: ./pages/06-wrap-up/wrap-up.md
-transition: slide-up
 ---
 
 ---
 layout: section
 color: green
+transition: fade
 ---
 
 # Q&A
