@@ -43,6 +43,7 @@ src: ./prompt-engineering.md
 ---
 layout: section
 color: blue-light
+transition: slide-up
 ---
 
 # Challenge #0
@@ -59,6 +60,7 @@ color: blue-light
 ---
 layout: section
 color: blue-light
+transition: slide-up
 ---
 
 # Challenge #1
@@ -69,7 +71,6 @@ layout: image-right
 color: blue-light
 image: https://miro.medium.com/v2/resize:fit:1122/format:webp/1*sSv_EWBC36YQSsUdpAsn-g.png
 backgroundSize: contain
-
 ---
 
 # Challenge #1
@@ -94,6 +95,7 @@ layout: image
 color: blue-light
 image: https://cdn-images-1.medium.com/v2/resize:fit:800/1*FViaTyNOfTurFYi8zWj6Xw.jpeg
 backgroundSize: contain
+transition: slide-up
 ---
 
 ---
@@ -101,6 +103,7 @@ layout: image
 color: blue-light
 image: https://cdn-images-1.medium.com/v2/resize:fit:800/1*Ub9hRFf-Ns8ORwsaKWokjg.jpeg
 backgroundSize: contain
+transition: slide-up
 ---
 
 ---
@@ -113,6 +116,7 @@ backgroundSize: contain
 ---
 layout: fact
 color: blue-light
+transition: slide-up
 ---
 
 # Challenge #1
@@ -146,6 +150,7 @@ color: blue-light
 ---
 layout: section
 color: blue-light
+transition: slide-up
 ---
 
 # Challenge #2
@@ -154,7 +159,6 @@ color: blue-light
 ---
 layout: top-title
 color: blue-light
-
 ---
 
 :: title ::
@@ -180,6 +184,7 @@ Technique adopted in *Express* Phase
 ---
 layout: fact
 color: blue-light
+transition: slide-up
 ---
 
 # Challenge #2
